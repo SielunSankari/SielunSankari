@@ -6,10 +6,10 @@
 <a href="https://linkedin.com/in/b4tyrz" target="_blank">
   <img src="https://img.shields.io/badge/linkedin-%23A020F0.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 6px;" />
 </a>
-<a href="https://instagram.com/b4tyrz" target="_blank">
+<a href="https://instagram.com/sielunsankari" target="_blank">
   <img src="https://img.shields.io/badge/instagram-%23A020F0.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-bottom: 6px;" />
 </a>
-<a href="https://t.me/b4tyrz" target="_blank">
+<a href="https://t.me/sielunsankari" target="_blank">
   <img src="https://img.shields.io/badge/telegram-%23A020F0.svg?&style=for-the-badge&logo=telegram&logoColor=white" alt="telegram" style="margin-bottom: 6px;" />
 </a>
 
