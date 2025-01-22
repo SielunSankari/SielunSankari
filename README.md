@@ -1,6 +1,6 @@
 ## Hello! I am Batyr! =)
 
-<a href="https://github.com/b4tyrz" target="_blank">
+<a href="https://github.com/SielunSankari" target="_blank">
   <img src="https://img.shields.io/badge/github-%23A020F0.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 6px;" />
 </a>
 <a href="https://linkedin.com/in/sielunsankari" target="_blank">
