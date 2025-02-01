@@ -36,7 +36,6 @@ But most importantly for me, it’s the experience and practice.
     height="33" 
   />
 </a>
-
 <a href="https://www.javascript.com/" target="_blank">
   <img 
     style="margin: 12px" 
