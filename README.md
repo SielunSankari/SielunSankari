@@ -17,11 +17,16 @@
 
 ### You are on the profile of a young developer (me), Welcome!
 
-I’m a **beginner frontend developer** studying at **Astana IT University**. Lately, I’ve been diving into **backend development** and exploring how to work with **PostgreSQL** and databases <img src="https://github.com/user-attachments/assets/9480ec55-f1b8-4d8c-82d6-f3aa2ee64e76" width="40" height="40" />
+I’m a **beginner frontend developer** studying at **Astana IT University**.
+Lately, I’ve been diving into **backend development** and exploring how to work with **PostgreSQL** and databases
+<img src="https://github.com/user-attachments/assets/9480ec55-f1b8-4d8c-82d6-f3aa2ee64e76" width="40" height="40" />
 
-One of my major passions is **Artificial Intelligence**, and I’m super excited about its potential. I love experimenting with new technologies and working on projects that make a positive impact <img src="https://github.com/user-attachments/assets/44d11afd-7924-430a-acce-837ef091ef9f" width="40" height="40" />
+One of my major passions is **Artificial Intelligence**, and I’m super excited about its potential.
+I love experimenting with new technologies and working on projects that make a positive impact 
+<img src="https://github.com/user-attachments/assets/44d11afd-7924-430a-acce-837ef091ef9f" width="40" height="40" />
 
-But honestly, what matters most to me is experience and practice... Because, well, you don't get far just with theory <img src="https://github.com/user-attachments/assets/16e1b271-a7e8-40d8-9db5-22aca83ddaef" width="40" height="40" />
+But honestly, what matters most to me is experience and practice... Because, well, you don't get far just with theory 
+<img src="https://github.com/user-attachments/assets/16e1b271-a7e8-40d8-9db5-22aca83ddaef" width="40" height="40" />
 
 ---
 
@@ -42,6 +47,9 @@ But honestly, what matters most to me is experience and practice... Because, wel
   </a>
   <a href="https://www.w3schools.com/css/" target="_blank" style="margin: 12px;">
     <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="33" />
+  </a>
+  <a href="https://sass-lang.com/" target="_blank" style="margin: 12px;">
+    <img src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="33" />
   </a>
   <a href="https://www.python.org/" target="_blank" style="margin: 12px;">
     <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="33" />
