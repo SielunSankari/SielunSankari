@@ -1,4 +1,4 @@
-## Hello! I am Batyr! /ᐠ - ˕ -マ
+## Hello! I am Batyr!
 
 <div style="margin-bottom: 10px;">
   <a href="https://github.com/SielunSankari" target="_blank">
